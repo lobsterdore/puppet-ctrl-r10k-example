@@ -1,0 +1,6 @@
+:cachedir: 'cache/r10k'
+
+:sources:
+  :base:
+    remote: 'git@github.com:lobsterdore/puppet-r10k-example.git'
+    basedir: 'environments'
