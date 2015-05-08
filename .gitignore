@@ -1,4 +1,4 @@
-cache/r10k
+cache/
 .bundle/
 bin/
 environments/
